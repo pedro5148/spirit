@@ -1,0 +1,26 @@
+{
+  "name": "doe",
+  "version": "1.0.0",
+  "description": "![maratonadev](https://i.ibb.co/XpxLvHg/maratonadev3-0.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martins-rafael/MaratonaDev3.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martins-rafael/MaratonaDev3.0/issues"
+  },
+  "homepage": "https://github.com/martins-rafael/MaratonaDev3.0#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1",
+    "pg": "^7.18.2"
+  }
+}
